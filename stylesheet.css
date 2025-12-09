@@ -11,10 +11,16 @@ button{
     background-color:black;
 }
 #creature_Name{
+    position:relative;
+    left:50%;
+    transform: translateX(-55%);
     font-size:48px;
     margin-bottom: 0px;
 }
 #creature_Description{
+    position:relative;
+    left:50%;
+    transform: translateX(-55%);
     margin-top:3px;
     font-size:24px;
     font-style:italic;
@@ -47,14 +53,20 @@ button{
     
 }
 #hornet_Commentimg{
-    width:24vw;
+    position:relative;
+    left:50%;
+    transform: translateX(-55%);
+    width:26vw;
 }
 #hornet_Comment{
+    position:relative;
+    left:50%;
+    transform: translateX(-55%);
     margin-top:3px;
     margin-bottom:3px;
     font-size:24px;
     font-style:italic;
-    width:24vw;
+    width:26vw;
 }
 #creature_Location{
     border:solid;
@@ -155,6 +167,7 @@ button{
     overflow:hidden */
     max-height:95vh;
     overflow-y:scroll;
+    overflow-x:visible;
     scrollbar-width: none;
     -ms-overflow-style: none;
 }
@@ -169,7 +182,7 @@ button{
 }
 .book{
     display:grid;
-    grid-template-columns: 25% 50% 25%;
+    grid-template-columns: 25% 50% 27%;
     text-align:center;
     align-items: center;
 }

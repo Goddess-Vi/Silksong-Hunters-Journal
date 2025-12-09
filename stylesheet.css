@@ -10,7 +10,20 @@ button{
     color:white;
     background-color:black;
 }
+#journal2{
+    z-index: 1;
+    background-color:rgb(46, 45, 45);
+}
+.patch{
+    margin-bottom: 0;
+    bottom:0vh;
+    z-index:2 !important;
+    top:0vh;
+    position:fixed ;
+    max-height:3vh
+}
 #creature_Name{
+    top:0vh;
     position:relative;
     left:50%;
     transform: translateX(-55%);
@@ -112,7 +125,7 @@ button{
     border-radius:7px;
     float:left;
     padding:0px;
-    max-height:100px;
+    max-height:15vh;
     overflow:scroll;
     overflow-x:hidden;
     overflow-y:unset;
@@ -135,6 +148,7 @@ button{
     padding: 0 20px;
 }
 .portraits{
+    z-index: 1;
     max-height:100vh;
     overflow-y:scroll;
     scrollbar-width: none;
@@ -170,6 +184,7 @@ button{
     overflow-x:visible;
     scrollbar-width: none;
     -ms-overflow-style: none;
+    background-color: rgb(46, 45, 45);
 }
 .HJPortrait{
     border:0px;

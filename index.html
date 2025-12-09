@@ -37,7 +37,7 @@
         }
         
     </script>
-    <body>
+        <body>
         <div class="book">
             <div class="portraits"> <!-- This is where the left column of the site loads, all 237-ish creatures in Hollow Knight: Silksong -->
             <img style="display:inline" class="HJPortrait"id="bone" src="Assets/Portraits/HJ_Mossgrub.png" onclick="document.getElementById('fullBody').src = 'Assets/Full/B_Mossgrub.png', document.getElementById('creature_Name').innerHTML = 'Mossgrub', document.getElementById('creature_Description').innerHTML = 'Fur covered crawler with a series of sharp spikes along its back.', document.getElementById('hornet_Comment').innerHTML = 'If not for the spikes, I would think it an appealing bug.', locate('Bone Bottom', '#7BA96D', '#222E20'), healthb(10,20)">
@@ -282,6 +282,8 @@
             <img id="fullBody" src="" alt="SELECT AN IMAGE ON THE LEFT">
             </div>
             <div class="Journal"> <!-- This is where the rightmost column of the site loads, this is where the writing is housed, as well as the primary location and health of the creature lies -->
+            <a class="patch" href="https://github.com/Goddess-Vi/Silksong-Hunters-Journal/blob/main/PATCHNOTES.md" target="_blank"><p class="patch">Latest version notes</p></a>
+            <div id="journal2">
             <h1 id="creature_Name">N/A</h1>
             <h1 id="creature_Description" >N/A</h1>
             <img id='hornet_Commentimg' src="Assets/hornetComment.png">
@@ -330,6 +332,7 @@
                 <button style="background-color: #191A24" onclick="filter('surface', 'The Surface')">The Surface</button>
                 <button style="background-color: #191A24" onclick="filter('cradle', 'The Cradle')">The Cradle</button>
                 <button style="background-color: #1D1F1F" onclick="filter('abyss', 'The Abyss')">The Abyss</button>
+            </div>
             </div>
             </div> 
         </div>   

@@ -29,6 +29,7 @@ button{
     transform: translateX(-55%);
     font-size:48px;
     margin-bottom: 0px;
+    max-width:24vw;
 }
 #creature_Description{
     position:relative;
@@ -37,6 +38,7 @@ button{
     margin-top:3px;
     font-size:24px;
     font-style:italic;
+    max-width:24vw;
 }
 @media screen and (orientation:portrait){
     #hornet_Commentimg{
@@ -70,6 +72,7 @@ button{
     left:50%;
     transform: translateX(-55%);
     width:26vw;
+    max-width:26vw !important
 }
 #hornet_Comment{
     position:relative;
@@ -79,7 +82,7 @@ button{
     margin-bottom:3px;
     font-size:24px;
     font-style:italic;
-    width:26vw;
+    max-width:24vw;
 }
 #creature_Location{
     border:solid;
@@ -179,9 +182,10 @@ button{
     float:left;
     max-width:400px;
     overflow:hidden */
+    /* max-width:25vw; */
     max-height:95vh;
     overflow-y:scroll;
-    overflow-x:visible;
+    overflow-x:hidden;
     scrollbar-width: none;
     -ms-overflow-style: none;
     background-color: rgb(46, 45, 45);

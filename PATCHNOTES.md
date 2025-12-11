@@ -1,7 +1,15 @@
 # Pale Spider's Journal Patch Notes
 The official release notes for the Pale Spider's Journal website
 ___
-## v0.1.0 ("First" Version)
+## v0.1.1 (December 11, 2025)
+* Every creature now has their name appropriately listed
+* Every creature up to the "Last Judge" has their description & comment added
+### What's next to come?
+In future updates, I will add a section for the total amonut of creatures slain to complete their entry.
+Additionally we plan to add better mobile device compatibility whilst adding in the rest of the descriptions & comments
+
+___
+## v0.1.0 (December 9, 2025)
 #### The site includes the following:
 * The portrait of all the creatures in Hollow Knight: Silksong
 * A prototype filter system that works however only a select few creatures work within the filter as of right now

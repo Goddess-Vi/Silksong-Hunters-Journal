@@ -1,6 +1,14 @@
 # Pale Spider's Journal Patch Notes
 The official release notes for the Pale Spider's Journal website
 ___
+## v0.2.0 (December 15, 2025)
+* ***Every creature now has their decription & comment, making the journal equivalent to that in-game***
+* Adjusted some styling to make things more uniform across different resolutions
+* Every creature now resets the following boxes when selecting a creature without that information added:
+    * Journal kill requirement
+    * Health
+    * Drops
+___
 ## v0.1.1 (December 11, 2025)
 * Every creature now has their name appropriately listed
 * Every creature up to the "Last Judge" has their description & comment added

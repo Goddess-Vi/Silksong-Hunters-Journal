@@ -166,6 +166,7 @@ button{
     padding: 0 20px;
 }
 .portraits{
+    max-width:350px;
     z-index: 1;
     max-height:100vh;
     overflow-y:scroll;
@@ -216,7 +217,7 @@ button{
 }
 .book{
     display:grid;
-    grid-template-columns: 25% 50% 27%;
+    grid-template-columns: 25% 48% 27%;
     text-align:center;
     align-items: center;
 }

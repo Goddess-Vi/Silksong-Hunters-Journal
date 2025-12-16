@@ -1,6 +1,17 @@
 # Pale Spider's Journal Patch Notes
 The official release notes for the Pale Spider's Journal website
 ___
+## v0.3.0 (December 16, 2026)
+* ***Every filter is now fully functioning***
+### Next to come:
+In the next updates, the currently listed features plan to be fully implemented, getting every creatures information properly put into the site. The order I would like to do this in (although may not be followed) is:
+1. Full body images
+2. Kills required for entry
+3. Health
+4. Drops
+
+Once all of this is implemented I will deem the site to be on full release, v1.0.0, with any futur major versions (e.g. v2.0.0) coming with DLC additions to the game, such as next years "Sea of Sorrow" dlc.
+___
 ## v0.2.0 (December 15, 2025)
 * ***Every creature now has their decription & comment, making the journal equivalent to that in-game***
 * Adjusted some styling to make things more uniform across different resolutions

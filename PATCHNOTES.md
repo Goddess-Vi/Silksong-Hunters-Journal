@@ -1,7 +1,20 @@
 # Pale Spider's Journal Patch Notes
 The official release notes for the Pale Spider's Journal website
 ___
-## v0.3.0 (December 16, 2026)
+## v0.4.0 (December 18, 2025)
+* ***Beta mobile support***
+    * This version is very rough with some glaring issues, but is overall functional
+    * Some issues are:
+        * Some creatures being to large to be completely visible
+        * The "Abyss" filter is completely inaccessible 
+        * The "Cradle" filter is barely accessible
+* **Patch notes patch notes**
+    * I made a glaring issue with the previous patch note, update the website an entire year in the future, on December 16, 202***6*** rather than 202***5***
+    * Additionally I mispelled future
+
+If you notice any additional issues with both the mobile version and the desktop version, please notify me either on my [Twitter](https://x.com/g0ddessv1) or email me 26KLanning@gmail.com
+___
+## v0.3.0 (December 16, 2025)
 * ***Every filter is now fully functioning***
 ### Next to come:
 In the next updates, the currently listed features plan to be fully implemented, getting every creatures information properly put into the site. The order I would like to do this in (although may not be followed) is:
@@ -10,7 +23,7 @@ In the next updates, the currently listed features plan to be fully implemented,
 3. Health
 4. Drops
 
-Once all of this is implemented I will deem the site to be on full release, v1.0.0, with any futur major versions (e.g. v2.0.0) coming with DLC additions to the game, such as next years "Sea of Sorrow" dlc.
+Once all of this is implemented I will deem the site to be on full release, v1.0.0, with any future major versions (e.g. v2.0.0) coming with DLC additions to the game, such as next years "Sea of Sorrow" dlc.
 ___
 ## v0.2.0 (December 15, 2025)
 * ***Every creature now has their decription & comment, making the journal equivalent to that in-game***
